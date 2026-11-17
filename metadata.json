@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Hardware",
+  "description": "Precision computer systems and certified replacement spare parts storefront with live inventory tracking, categorized browsing, customer reviews, and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
